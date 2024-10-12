@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string.h>
-#define SIZE 1000 //입력받을 문자열이 크기 지정
+#define SIZE 1000 // 입력받을 문자열이 크기 지정
 using namespace std;
 //결과를 저장할 배열 선언
 unsigned int numbers[10][2];
